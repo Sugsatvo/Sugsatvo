@@ -5,8 +5,11 @@
 <div align="left">
   <p>🎓 Student at <strong>ETEC Vasco Antonio Venchiarutti (ETECVAV)</strong> — Systems Development</p>
   <p>💻 Passionate about programming and technology</p>
-  <p>🌎 English level: Pre-Advanced (B2)</p>
 </div>
+
+## 🌍 Languages:
+![Portuguese](https://img.shields.io/badge/Português-Native-brightgreen?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
 
 ###
 
