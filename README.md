@@ -1,10 +1,9 @@
-<h2 align="left">Hi 👋! My name is Gustavo Oliveira and I'm from Jundiaí, Brazil.</h2>
+<h2 align="left">Hi! My name is Gustavo Oliveira and I'm from Jundiaí, Brazil.</h2>
 
 ###
 
 <div align="left">
   <p>🎓 Student at <strong>ETEC Vasco Antonio Venchiarutti (ETECVAV)</strong> — Systems Development</p>
-  <p>💻 Passionate about programming and technology</p>
 </div>
 
 ## 🌍 Languages:
