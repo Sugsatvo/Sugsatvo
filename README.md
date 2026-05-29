@@ -8,7 +8,7 @@
 </div>
 
 ## 🌍 Languages:
-<img src="languages-badge (1).svg" alt="Languages" />
+<img src="languages-badge.svg" alt="Languages" />
 
 ###
 
