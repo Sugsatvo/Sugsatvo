@@ -2,9 +2,17 @@
 
 ###
 
+<div align="left">
+  <p>🎓 Student at <strong>ETEC Vasco Antonio Venchiarutti (ETECVAV)</strong> — Systems Development</p>
+  <p>💻 Passionate about programming and technology</p>
+  <p>🌎 English level: Pre-Advanced (B2)</p>
+</div>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugsatvo&show_icons=true&theme=default" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugsatvo&layout=compact&theme=default" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugsatvo&show_icons=true&count_private=true&hide_border=true&theme=default" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugsatvo&layout=compact&hide_border=true&theme=default" height="150" alt="languages graph" />
 </div>
 
 ###
