@@ -8,8 +8,7 @@
 </div>
 
 ## 🌍 Languages:
-![Portuguese](https://img.shields.io/badge/Português-Native-brightgreen?style=for-the-badge)
-![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
+<img src="languages-badge.svg" alt="Languages" />
 
 ###
 
