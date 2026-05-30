@@ -4,7 +4,6 @@
 
 <div align="left">
   <p>🎓 Student at <strong>ETEC Vasco Antonio Venchiarutti (ETECVAV)</strong> — Systems Development</p>
-  <p>💻 Passionate about programming and technology</p>
 </div>
 
 ###
