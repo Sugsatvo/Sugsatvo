@@ -1,20 +1,21 @@
-<h2 align="left">Hi! My name is Gustavo Oliveira and I'm from Jundiaí, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Gustavo Oliveira and I'm from Jundiaí, Brazil.</h2>
 
 ###
 
 <div align="left">
   <p>🎓 Student at <strong>ETEC Vasco Antonio Venchiarutti (ETECVAV)</strong> — Systems Development</p>
+  <p>💻 Passionate about programming and technology</p>
 </div>
+
+###
 
 ## 🌍 Languages:
 <img src="languages-badge.svg" alt="Languages" />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugsatvo&show_icons=true&count_private=true&hide_border=true&theme=default" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugsatvo&layout=compact&hide_border=true&theme=default" height="150" alt="languages graph" />
-</div>
+## 💻 Skills:
+<img src="skills-badge.svg" alt="Skills" />
 
 ###
 
