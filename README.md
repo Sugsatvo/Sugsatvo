@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gustavo Oliveira and I'm from Jundiaí, Brazil.</h2>
+<h2 align="left">I'm Gustavo Oliveira</h2>
 
 ###
 
