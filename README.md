@@ -1,4 +1,4 @@
-<h2 align="left">I'm Gustavo Oliveira</h2>
+<h2 align="left">Hello! I'm Gustavo Oliveira</h2>
 
 ###
 
