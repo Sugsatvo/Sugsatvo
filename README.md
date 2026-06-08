@@ -9,8 +9,7 @@
 ###
 
 ## 🌍 Languages:
-<img src="languages-badge.svg" alt="Languages" />
-
+(https://img.shields.io/badge/Português-Native-brightgreen?style=for-the-badge) ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
 ###
 
 ## ⚡ Current Skills:
