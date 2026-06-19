@@ -16,7 +16,6 @@
 ## ⚡ Current Skills:
 ![HTML](https://img.shields.io/badge/HTML-In%20Progress-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-In%20Progress-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-In%20Progress-3572A5?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 
