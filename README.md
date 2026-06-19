@@ -18,12 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS-In%20Progress-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-In%20Progress-3572A5?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-## 🔜 Future Learning:
-![JavaScript](https://img.shields.io/badge/JavaScript-Next%20Up-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-Future-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Future-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Future-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ###
 
