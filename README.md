@@ -21,6 +21,8 @@
 
 ###
 
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Sugsatvo&layout=donut&stats_format=percentages&theme=dark&hide_border=true&border_radius=10&card_width=466&locale=pt-br&hide_title=true&langs_count=4)](https://nice-readme.vercel.app/top-langs)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
