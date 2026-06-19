@@ -17,7 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML-In%20Progress-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-In%20Progress-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-In%20Progress-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/https%3A%2F%2Fdevicons.io%2Fdevicons%2Ficons%2Fjava.svg%2C%20IN%20PROGRESS)
 
 ###
 
