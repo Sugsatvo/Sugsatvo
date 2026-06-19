@@ -14,14 +14,6 @@
 ###
 
 ## ⚡ Current Skills:
-![HTML](https://img.shields.io/badge/HTML-In%20Progress-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-In%20Progress-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-In%20Progress-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/https%3A%2F%2Fdevicons.io%2Fdevicons%2Ficons%2Fjava.svg%2C%20IN%20PROGRESS)
-
-###
-
-[![Most languages used](https://helio-github-stats.vercel.app/api/top-langs?username=Sugsatvo&layout=donut&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=466&locale=pt-br&custom_title=Most+languages+used&hide=html&langs_count=4)](https://nice-readme.vercel.app/top-langs)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -32,6 +24,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
 </div>
+
+###
+
+[![Most languages used](https://helio-github-stats.vercel.app/api/top-langs?username=Sugsatvo&layout=donut&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=466&locale=pt-br&custom_title=Most+languages+used&hide=html&langs_count=4)](https://nice-readme.vercel.app/top-langs)
+
 
 ###
 
