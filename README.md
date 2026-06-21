@@ -27,7 +27,7 @@
 
 ###
 
-[![Most languages used](https://helio-github-stats.vercel.app/api/top-langs?username=Sugsatvo&layout=donut&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=466&locale=pt-br&custom_title=Most+languages+used&hide=html&langs_count=4)](https://nice-readme.vercel.app/top-langs)
+[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=Sugsatvo&layout=donut&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=466&locale=pt-br&custom_title=Most+used+languages&hide=html%2C+portugol)](https://nice-readme.vercel.app/top-langs)
 
 
 ###
