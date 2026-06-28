@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" height="30" alt="VS code" />
+  <img width="12" />
+  <img src="https://devicons.io/devicons/icons/intellij-idea.svg" height="30" alt="VS code" />
   
 </div>
 
